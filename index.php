@@ -29,8 +29,8 @@
     </style>
 </head>
 <body>
-    <h1>Hola Mundo</h1>
+    <h1>Hola a todos y todas, que tengan un excelente día</h1>
     <h2>Bienvenido a Cloud Computing</h2>
-    <img src="https://citelia.es/wp-content/uploads/que-es-cloud-computing.jpg" alt="Imagen de cloud">
+    <img src="que-es-cloud-computing.jpg" alt="Imagen de cloud">
 </body>
 </html>
